@@ -1,0 +1,9 @@
+[submodule "meta/3rd/busted"]
+	path = meta/3rd/busted
+	url = https://github.com/LuaCATS/busted.git
+[submodule "meta/3rd/luassert"]
+	path = meta/3rd/luassert
+	url = https://github.com/LuaCATS/luassert.git
+[submodule "meta/3rd/lpeg"]
+	path = meta/3rd/lpeg
+	url = https://github.com/LuaCATS/lpeg.git
